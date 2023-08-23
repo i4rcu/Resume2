@@ -22,11 +22,10 @@ img{
    display: block;
 }
 li{
-   text-align: center;
    color: #5C8374;
    font-size: 20px;
-      list-style-position: inside;
-
+   list-style-position: inside;
+   margin-left: 40%;
 }
 ol{
    list-style-position: inside;
