@@ -20,6 +20,10 @@ img{
    margin-left: auto;
    margin-right: auto;
    display: block;
+   border-radius: 20px;
+   border: 30px solid #5C8374;
+   border-left: 50px solid white;
+   border-right: 50px solid white;
 }
 li{
    color: #5C8374;
