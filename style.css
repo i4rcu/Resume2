@@ -13,7 +13,8 @@ h1{
    text-align: center;
    background-color: #183D3D;
    color: #5C8374;
-   margin: 20px 80px 20px 80px;
+   margin-left: 100px;
+   margin-right: 100px;
 }
 #summary{
    text-align: center;
