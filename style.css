@@ -4,10 +4,16 @@ html{
 h1{
    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.oo{
+   text-align: center;
+   background-color: #183D3D;
+   color: #5C8374;
+}
 .orta{
    text-align: center;
    background-color: #183D3D;
    color: #5C8374;
+   margin: 80px;
 }
 #summary{
    text-align: center;
@@ -24,6 +30,7 @@ img{
    border: 30px solid #5C8374;
    border-left: 50px solid white;
    border-right: 50px solid white;
+   padding: 15px;
 }
 li{
    color: #5C8374;
